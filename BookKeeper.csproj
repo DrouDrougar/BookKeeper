@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="BookKeeper.Data\**" />
+    <Compile Remove="BookKeeper.Test\**" />
+    <Content Remove="BookKeeper.Data\**" />
+    <Content Remove="BookKeeper.Test\**" />
+    <EmbeddedResource Remove="BookKeeper.Data\**" />
+    <EmbeddedResource Remove="BookKeeper.Test\**" />
+    <None Remove="BookKeeper.Data\**" />
+    <None Remove="BookKeeper.Test\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.6" />
@@ -21,6 +32,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BookKeeper.Data\BookKeeper.Data.csproj" />
+    <ProjectReference Include="BookKeeper.Data\BookKeeper.Data.csproj" />
   </ItemGroup>
 
 </Project>
