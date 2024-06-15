@@ -1,0 +1,14 @@
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\bin\Debug\net8.0\BookKeeper.Data.deps.json
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\bin\Debug\net8.0\BookKeeper.Data.runtimeconfig.json
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\bin\Debug\net8.0\BookKeeper.Data.dll
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\bin\Debug\net8.0\BookKeeper.Data.pdb
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.csproj.AssemblyReference.cache
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.AssemblyInfoInputs.cache
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.AssemblyInfo.cs
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.dll
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\refint\BookKeeper.Data.dll
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.pdb
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\BookKeeper.Data.genruntimeconfig.cache
+C:\Users\Gustaf\Desktop\WebDesignKursen\ASP Program\BookKeeper.Data\obj\Debug\net8.0\ref\BookKeeper.Data.dll
